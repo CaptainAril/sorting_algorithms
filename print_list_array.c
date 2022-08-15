@@ -23,7 +23,7 @@ void print_array(const int *array, size_t size)
 
 
 /**
- * rint_list - Prints a list of integers
+ * print_list - Prints a list of integers
  *
  * @list: The list to be printed
  */
