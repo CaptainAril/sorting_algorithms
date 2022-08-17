@@ -5,6 +5,8 @@
  * using the Bubble sort algorithm
  * @array: array to sort.
  * @size: size of @array.
+ *
+ * Description: Prints the array after each time two elements are swapped.
  */
 void bubble_sort(int *array, size_t size)
 {
